@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg, #1e293b, #0f172a);
+    font-family: Arial;
+    color: white;
+}
+
+.container {
+    text-align: center;
+    background: rgba(255,255,255,0.05);
+    padding: 40px;
+    border-radius: 15px;
+}
+
+input {
+    padding: 10px;
+    border-radius: 8px;
+    border: none;
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background: #22c55e;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    cursor: pointer;
+}
+
+.spam {
+    color: red;
+}
+
+.not-spam {
+    color: lightgreen;
+}
