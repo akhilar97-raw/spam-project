@@ -2,8 +2,6 @@
 
 A simple and effective machine learning-based web application that classifies messages as **Spam** or **Not Spam**.
 
----
-
 ## 🚀 Features
 
 - 🔍 Detects whether a message is spam or not  
@@ -11,8 +9,6 @@ A simple and effective machine learning-based web application that classifies me
 - 🎨 Clean and user-friendly UI  
 - 🧠 Machine Learning model using Naive Bayes  
 - 🌐 Frontend + Backend integrated  
-
----
 
 ## 🛠️ Tech Stack
 
@@ -25,8 +21,6 @@ A simple and effective machine learning-based web application that classifies me
   - CountVectorizer  
   - Multinomial Naive Bayes  
 
----
-
 ## 🧠 How It Works
 
 1. User enters a message in the web interface  
@@ -37,7 +31,6 @@ A simple and effective machine learning-based web application that classifies me
    - Not Spam ✅  
 5. Result is displayed on the screen  
 
----
 
 ## 📁 Project Structure
 
