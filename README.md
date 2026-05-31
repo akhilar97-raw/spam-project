@@ -43,7 +43,7 @@ spam-project/
 ├── script.js       # Frontend logic
 └── README.md       # Project documentation
 
-
+''''
 ## ▶️ How to Run This Project
 
 ### 1. Install dependencies
