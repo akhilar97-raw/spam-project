@@ -42,8 +42,7 @@ spam-project/
 ├── style.css       # Styling
 ├── script.js       # Frontend logic
 └── README.md       # Project documentation
-```
----
+
 
 ## ▶️ How to Run This Project
 
@@ -63,7 +62,7 @@ python app.py
 
 Open your browser and go to:
   http://127.0.0.1:5000 
----
+
 
 ## 💡 Future Improvements
 
@@ -72,7 +71,6 @@ Open your browser and go to:
 - Improve UI with animations  
 - Deploy the project online 🌐  
 
----
 
 ## 👨‍💻 Author
 
@@ -80,7 +78,6 @@ Open your browser and go to:
 - **Project:** Spam Detector using Machine Learning  
 - Built as a beginner-level AI project for learning purposes  
 
----
 
 ## ⭐ Show Your Support
 
